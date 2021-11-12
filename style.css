@@ -47,9 +47,3 @@ h1 {
     width: 80%;
 }
 
-.my_nav_bar
-{
-    position:sticky;
-    top:0;
-    z-index:99999
-}
